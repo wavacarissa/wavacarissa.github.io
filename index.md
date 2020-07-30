@@ -22,6 +22,7 @@ This is a part of event about E-Sports in Indonesia where we perform data analys
 
 - [PPSMB Palapa UGM 2017 - Coming Soon Page](https://wavacarissa.github.io/ppsmb-palapa-welcome/)
 <img src="images/Coming Soon.JPG?raw=true"/>
+
 - [PPSMB Palapa UGM 2017 - Map of UGM](https://wavacarissa.github.io/ppsmb-palapa-map/)
 <img src="images/UGM-Map.JPG?raw=true"/>
 
