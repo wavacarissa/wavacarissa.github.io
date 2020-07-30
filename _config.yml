@@ -1,7 +1,7 @@
 title: Wava Carissa P # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A Computer Science Graduate Student who has an interest towards combining technology and art. 
+  A Computer Science Graduate Student who has an interest towards combining technology and art.
+  <br>
   <a href="https://www.linkedin.com/in/wavacarissa/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
